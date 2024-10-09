@@ -12,7 +12,7 @@
 
    <img src="./img/role.png" alt="role" style="zoom:50%;" />
 
-   <img src="C:\Users\ForceCS\AppData\Roaming\Typora\typora-user-images\image-20241009113726476.png" alt="image-20241009113726476" style="zoom:50%;" />
+   <img src="C:\Users\ForceCS\AppData\Roaming\Typora\typora-user-images\2.png" alt="image-20241009113726476" style="zoom:50%;" />
 
    然后为这个policy起一个名字
 
