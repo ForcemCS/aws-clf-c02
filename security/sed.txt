@@ -1,0 +1,1 @@
+sed  -i  's#C:\\Users\\ForceCS\\Desktop\\aws\\img\\#.\/img\/#g' 
