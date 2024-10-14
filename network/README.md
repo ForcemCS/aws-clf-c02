@@ -38,7 +38,7 @@
 
    <img src="./img/d9.png" alt="d9" style="zoom:50%;" />
 
-   <img src="C:\Users\ForceCS\AppData\Roaming\Typora\typora-user-images\image-20241014161259686.png" alt="image-20241014161259686" style="zoom:50%;" />
+   <img src="./img/image-20241014161259686.png" alt="image-20241014161259686" style="zoom:50%;" />
 
    创建入栈规则后，默认返回的流量是允许的
 
