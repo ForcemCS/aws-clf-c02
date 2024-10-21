@@ -96,8 +96,8 @@ RDS提供全面管理的关系型数据库，支持 MySQL、PostgreSQL 和 Maria
 
 + 具有数据管理功能的全球多区域API
 
-  <img src="C:\Users\ForceCS\Desktop\aws\doc\img\1.png" alt="1" style="zoom:50%;" />
+  <img src="./img/1.png" alt="1" style="zoom:50%;" />
 
 + 验证和约束
 
-  <img src="C:\Users\ForceCS\Desktop\aws\doc\img\2.png" alt="2" style="zoom:50%;" />
+  <img src="./img/2.png" alt="2" style="zoom:50%;" />
