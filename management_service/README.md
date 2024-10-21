@@ -24,7 +24,7 @@ AWS 组织用于集中管理多个 AWS 账户。
 
 AWS Control Tower 是一项服务，可帮助您以安全的最佳实践方式设置 AWS 组织，并制定审计、日志和合规规则。
 
-![1](C:\Users\ForceCS\Desktop\aws\management_service\img\1.png)
+![1](./img/1.png)
 
 ###  AWS Config and AWS CloudTrail
 
@@ -33,4 +33,4 @@ AWS CloudTrail 是一项跟踪和记录 AWS 账户中所有用户和 API 活动�
 
 ### 其他的一些服务
 
-<img src="C:\Users\ForceCS\Desktop\aws\management_service\img\2.png" alt="2" style="zoom:50%;" />
+<img src="./img/2.png" alt="2" style="zoom:50%;" />
