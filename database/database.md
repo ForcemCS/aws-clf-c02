@@ -38,5 +38,5 @@ Amazon Elastic Kubernetes Service (Amazon EKS)
 
 去掉前两个
 
-<img src="C:\Users\ForceCS\Desktop\aws\database\img\1.png" alt="1" style="zoom:50%;" />
+<img src="./img/1.png" alt="1" style="zoom:50%;" />
 
